@@ -1,4 +1,4 @@
-# Data-Visualization-Using-Pandas
+# Data-Visualization-Using-Python
 
 📊 Data Visualization with Python & Pandas
 Welcome to my Data Visualization Project 🎨 — a complete showcase of how data can be understood visually using Python and Pandas.
